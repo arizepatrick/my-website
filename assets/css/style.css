@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.top-container{
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    }
+    .top-cloud{
+        position: absolute;
+        right: 200px;
+        top: 40px;
+    }
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+    font-weight: 900;
+    font-size: 110px;
+}
+h2{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    line-height: 2;
+}
+.first-paragraph{
+    line-height: 2;
+    width: 36%;
+    text-align: center;
+    margin: auto;
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 200px;
+}
+.profile{
+    padding: 100px 15px;
+}
+.intro{
+    margin: auto;
+    line-height: 2;
+    width: 40%;
+    text-align: center;
+}
+hr{
+    border:6px dotted #66bfbf;
+    border-bottom: none;
+    width: 9%;
+     margin-top:100px ;
+}
+.middle-container{
+    text-align: center;
+}
+    .a-container{
+        width: 50%;
+        margin: auto;
+    }
+    .paragraph{
+        text-align: left;
+    }
+    .a-container .paragraph:first-of-type {
+        margin-bottom: 90px;
+    }
+    .top-computer, .bottom-computer {
+        width: 25%;
+    }
+    .top-computer{
+        float: left;
+        margin-right: 30px;
+    }
+    .bottom-computer{
+        float: right;
+        margin-left: 30px;
+    }
+.button{
+    background-color: #11cdd4;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px ;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 8px;
+    display: inline-block;
+    margin: 50px;
+}
+.button:hover{
+    background-color: #eee;
+}
+.button2{
+    background-color: #11cdd4;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px ;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 8px;
+    display: inline-block;
+    margin: 50px;
+}
+.button2:hover{
+    background-color: #eee;
+}
+.last-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+.facebook{
+    text-decoration: none;
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+.facebook:hover{
+    color: #eee;
+}
+.all-right{
+    color: #eee;
+}
